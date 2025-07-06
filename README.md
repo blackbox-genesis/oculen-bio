@@ -52,8 +52,8 @@ However, feel free to [contact me](mailto:adityaraj.kuro@gmail.com) or [connect 
 
 <h4 align="center">🧪 Analyze Page</h4>
 <p align="center">
-  <a href="analyze-page.png" target="_blank">
-    <img src="analyze-page.png" width="600" />
+  <a href="analyze-page-2.png" target="_blank">
+    <img src="analyze-page-2.png" width="600" />
   </a>
 </p>
 
