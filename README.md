@@ -51,6 +51,7 @@ However, feel free to [contact me](mailto:adityaraj.kuro@gmail.com) or [connect 
 
 ### 📊 Results Page  
 [![Results: Graph 1](result-1.png)](result-1.png)  
+
 [![Results: Graph 2](result-2.png)](result-2.png)
 
 
