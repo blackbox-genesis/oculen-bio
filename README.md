@@ -41,18 +41,32 @@ However, feel free to [contact me](mailto:adityaraj.kuro@gmail.com) or [connect 
 
 ---
 
-## 📸 Screenshots
+<h2 align="center">📸 Screenshots</h2>
 
-### 🧬 Landing Page  
-[![Landing Page](landing-page.png)](landing-page.png)
+<h4 align="center">🧬 Landing Page</h4>
+<p align="center">
+  <a href="landing-page.png" target="_blank">
+    <img src="landing-page.png" width="600" />
+  </a>
+</p>
 
-### 🧪 Analyze Page  
-[![Analyze Page](analyze-page.png)](analyze-page.png)
+<h4 align="center">🧪 Analyze Page</h4>
+<p align="center">
+  <a href="analyze-page.png" target="_blank">
+    <img src="analyze-page.png" width="600" />
+  </a>
+</p>
 
-### 📊 Results Page  
-[![Results: Graph 1](result-1.png)](result-1.png)  
-
-[![Results: Graph 2](result-2.png)](result-2.png)
+<h4 align="center">📊 Results Page</h4>
+<p align="center">
+  <a href="result-1.png" target="_blank">
+    <img src="result-1.png" width="600" />
+  </a>
+  <br/>
+  <a href="result-2.png" target="_blank">
+    <img src="result-2.png" width="600" />
+  </a>
+</p>
 
 
 
