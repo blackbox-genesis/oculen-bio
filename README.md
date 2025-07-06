@@ -41,7 +41,18 @@ However, feel free to [contact me](mailto:adityaraj.kuro@gmail.com) or [connect 
 
 ---
 
-## 📷 Screenshots
+## 📸 Screenshots
+
+### 🧬 Landing Page  
+[![Landing Page](landing-page.png)](landing-page.png)
+
+### 🧪 Analyze Page  
+[![Analyze Page](analyze-page.png)](analyze-page.png)
+
+### 📊 Results Page  
+[![Results: Graph 1](result-1.png)](result-1.png)  
+[![Results: Graph 2](result-2.png)](result-2.png)
+
 
 
 
