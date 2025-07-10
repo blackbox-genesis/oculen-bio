@@ -45,8 +45,11 @@ However, feel free to [contact me](mailto:adityaraj.kuro@gmail.com) or [connect 
 
 <h4 align="center">🧬 Landing Page</h4>
 <p align="center">
-  <a href="landing-page.png" target="_blank">
-    <img src="landing-page.png" width="600" />
+  <a href="landing-page-1.png" target="_blank">
+    <img src="landing-page-1.png" width="600" />
+
+  <a href="landing-page-2.png" target="_blank">
+    <img src="landing-page-2.png" width="600" />
   </a>
 </p>
 
